@@ -14,10 +14,9 @@ body
     width: 70%;
     padding:1em;
     text-align: left;
-    border:1px solid #DDD;
+    border:1px solid #DD3;
     margin: 0px auto;
-
-
+    background-color: #DDD;
 }
 
 #container h1
@@ -52,6 +51,15 @@ body
 
 #post
 {
-    background: white;
-    padding: 1em;
+    color: #000;
+    background: #DDD;
+
+}
+
+#footer
+{
+    background: #777;
+    color:white;
+    text-align: center;
+    padding: 0.5em; 
 }

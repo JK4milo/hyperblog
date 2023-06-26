@@ -9,3 +9,5 @@ He aprendido:
 * Crear ramas y hacer merge
 * Creado por el increible equipo de platzi
 
+* Incluye ejemplos en Linux, Windows y Mac
+* Disponible para todas las edades

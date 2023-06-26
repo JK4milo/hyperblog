@@ -7,3 +7,5 @@ He aprendido:
 * Instalar git
 * crear puentes SSH
 * Crear ramas y hacer merge
+* Creado por el increible equipo de platzi
+
